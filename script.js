@@ -2,7 +2,7 @@ const formularioConsulta = document.getElementById('formulario-consulta');
 const tabelaConsultas = document.getElementById('tabela-consultas');
 // Função para obter as clínicas e médicos do servidor
 function obterClinicasEDoctores() {
-    // Implemente a lógica para obter as clínicas e médicos do servidor
+    
 }
 // Função para adicionar uma consulta à tabela
 function adicionarConsultaATabela(consulta) {
@@ -23,7 +23,7 @@ function adicionarConsultaATabela(consulta) {
 }
 // Função para excluir uma consulta
 function excluirConsulta(id) {
-    // Implemente a lógica para excluir uma consulta do servidor
+    
 }
 // Adicione um event listener ao formulário de consulta
 formularioConsulta.addEventListener('submit', async event => {
